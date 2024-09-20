@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+statsmodels
+BeautifulSoup4
+requests
+Pillow
+SQLAlchemy
+Scikit-learn
+Seaborn
+Openpyxl
+kaggle
+plotly
