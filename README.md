@@ -25,6 +25,7 @@ I hold certifications from Coursera and Udacity in **Google Data Analytics** and
 ## Certifications
 - **Google Data Analytics Professional Certification** - [Coursera, October 2022](https://www.coursera.org/account/accomplishments/specialization/2LY4XSXFS6SR)
 - **Data Analysis and Descriptive Statistics** - [Udacity, September 2024](https://www.udacity.com/certificate/e/38f0b50e-6508-11ef-9aff-dbed48e496e9)
+- **Advanced Data Wrangling and Data Modeling** - [Udacity, September 2024](https://www.udacity.com/certificate/e/45a91588-6bd5-11ef-aa8b-934496d6d56d)
 
 ## Contact
 - **GitHub**: [ericjbailey/Portfolio](https://github.com/ericjbailey/Portfolio)
