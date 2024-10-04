@@ -6,7 +6,6 @@ I specialize in creating data-driven solutions that optimize business processes,
 - [About](#about)
 - [Technical Skills](#technical-skills)
 - [Certifications](#certifications)
-- [Contact](#contact)
 
 ## About
 Currently pursuing a **B.S. in Data Analytics** at Western Governors University (Expected Graduation: December 2024). With a professional background that spans data management, customer service, and precision manufacturing, I bring a diverse set of skills that can help businesses unlock valuable insights from their data.
