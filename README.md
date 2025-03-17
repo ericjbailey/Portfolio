@@ -8,7 +8,7 @@ I specialize in creating data-driven solutions that optimize business processes,
 - [Certifications](#certifications)
 
 ## About
-Currently pursuing a **B.S. in Data Analytics** at Western Governors University (Expected Graduation: December 2024). With a professional background that spans data management, customer service, and precision manufacturing, I bring a diverse set of skills that can help businesses unlock valuable insights from their data.
+Currently pursuing a **B.S. in Data Analytics** at Western Governors University (Expected Graduation: Spring 2025). With a professional background that spans data management, customer service, and precision manufacturing, I bring a diverse set of skills that can help businesses unlock valuable insights from their data.
 
 I hold certifications from CompTIA, Coursera, and Udacity in **Data+**, **Google Data Analytics**, **IBM Data Vizualization with Cognos**, and **Descriptive Statistics**, which complement my hands-on experience with SQL, Python, Excel, Tableau, and Power BI.
 
