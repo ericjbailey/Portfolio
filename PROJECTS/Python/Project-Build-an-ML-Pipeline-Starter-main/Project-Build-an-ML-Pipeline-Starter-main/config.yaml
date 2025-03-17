@@ -1,0 +1,48 @@
+main:
+  components_repository: "https://github.com/ericjbailey/Project-Build-an-ML-Pipeline-Starter.git#components"
+  src_repository: "https://github.com/ericjbailey/Project-Build-an-ML-Pipeline-Starter.git#src"
+  # All the intermediate files will be copied to this directory at the end of the run.
+  # Set this to null if you are running in prod
+  project_name: nyc_airbnb3
+  experiment_name: development
+  steps: all
+download:
+  sample: "sample1.csv"
+  min_price: 10  # dollars
+  max_price: 350  # dollars
+basic_cleaning:
+  input_artifact: "sample.csv:latest"
+  output_artifact: "clean_sample.csv"
+  output_type: "clean_data"
+  output_description: "Data with outliers removed"
+  min_price: 10
+  max_price: 350
+data_check:
+  input_artifact: "clean_sample.csv:latest"           
+  output_artifact: "clean_sample.csv:latest"             
+  kl_threshold: 0.2              
+  min_price: 10                 
+  max_price: 350   
+  min_rows: 15000
+  max_rows: 1000000
+split:
+  input_artifact: "clean_sample.csv:latest"
+  test_size: 0.2
+  random_seed: 42
+  stratify_by: "neighbourhood_group"
+modeling:
+  mlflow_model: "random_forest_export:prod"
+  test_dataset: "test_data.csv:latest"
+  val_size: 0.2
+  random_seed: 42
+  stratify_by: "neighbourhood_group"
+  max_tfidf_features: 5
+  random_forest:
+    n_estimators: [100, 200]
+    max_depth: [10, 50]
+    min_samples_split: 4
+    min_samples_leaf: 3
+    n_jobs: -1
+    criterion: squared_error
+    max_features: 0.5
+    oob_score: true
