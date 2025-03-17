@@ -18,7 +18,7 @@ I hold certifications from CompTIA, Coursera, and Udacity in **Data+**, **Google
 - **Databases & SQL**: Skilled in SQL for data extraction, transformation, and analysis. Experienced in creating and modifying databases, views, and queries.
 - **Data Visualization**: Strong visualization skills data using tools like Jupyter, Tableau, and Cognos.
 - **Programming**: Experienced in Python, SQL, and R, focusing on data manipulation, machine learning, and automation.
-- **Reporting**: Expert communication skills. Confident conveyance of insights to both technical and non-technical audiences through Email, Microsoft Word, or Jupyter Notebooks. 
+- **Reporting**: Expert communication skills. Confident conveyance of insights to both technical and non-technical audiences. 
 
 
 ## Certifications
